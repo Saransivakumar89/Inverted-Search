@@ -1,0 +1,10 @@
+#0;are;2;s1.txt;1;z.txt;1#
+#7;hi;2;s.txt;1;s1.txt;1#
+#7;hello;3;s.txt;1;s1.txt;1;z.txt;1#
+#7;hoe;1;s1.txt;1#
+#8;im;1;s.txt;1#
+#18;saran;2;s.txt;1;s1.txt;1#
+#24;you;2;s1.txt;1;z.txt;1#
+#26;,;1;s1.txt;1#
+#26;.;1;s1.txt;1#
+#26;?;1;s1.txt;1#
