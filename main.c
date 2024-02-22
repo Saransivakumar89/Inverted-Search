@@ -1,10 +1,8 @@
 /*
 Name : Saran
 Date : 18 Nov 2023
-Project Title : Inverted Search
+Project Title : Inverted Search - (Indexing & Quering)
 Project Objective : The main objective of this project is to a create database perform the display,search,save & update operations
-Module : Data Structures 
-
 */
 
 #include "search.h"
